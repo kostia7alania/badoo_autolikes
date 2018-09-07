@@ -1,0 +1,27 @@
+.myJumbo{
+    text-align:center;
+    
+  }
+  .myNav {
+  
+   
+   }
+  
+  .centerText{
+    text-align:center;
+    border: solid 3px red;
+  }
+  .third{
+    text-align:center;
+    border: solid 3px blue;
+  }
+  .fourths{
+    text-align:center;
+    border: solid 3px green;
+  }
+  li{
+    list-style: none;
+  }
+  .customerList{
+    text-align:center;
+  }
